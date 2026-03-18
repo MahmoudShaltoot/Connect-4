@@ -1,9 +1,0 @@
-                                                              # List of design patterns used in the project #
-
-# Singleton Pattern   // Computer [RandomComputer class & AIComputer class]  
-# Factory Pattern
-# decoretor pattern 
-# Iterator Pattern    
-# Null Object Pattern 
-# Prototype Pattern    // minimax Algorithm 
-# momento Pattern 
